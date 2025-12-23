@@ -16,7 +16,7 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
     languageCode = 'en'
     languageName = 'English'
     weight = 1
-    title = 'Laelith'
+    title = 'Laelith Open Licence'
     [languages.en.params]
       description = 'Description and conditions of the Laelith Open Licence'
 
@@ -41,7 +41,7 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
     languageCode = 'fr'
     languageName = 'Français'
     weight = 2
-    title = 'Laelith'
+    title = 'Licence Ouverte Laelith'
     [languages.fr.params]
       description = 'Description et conditions de la Licence Ouverte Laelith'
     [languages.fr.menu]
