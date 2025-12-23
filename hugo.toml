@@ -1,5 +1,5 @@
 baseURL = 'https://www.laelith.org/'
-title = 'Laelith'
+title = 'Laelith Open Licence'
 languageCode = 'en'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
@@ -18,7 +18,7 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
     weight = 1
     title = 'Laelith'
     [languages.en.params]
-      description = 'Welcome to Laelith'
+      description = 'Description and conditions of the Laelith Open Licence'
 
   [languages.en.menu]
     [[languages.en.menu.main]]
@@ -43,7 +43,7 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
     weight = 2
     title = 'Laelith'
     [languages.fr.params]
-      description = 'Bienvenue à Laelith'
+      description = 'Description et conditions de la Licence Ouverte Laelith'
     [languages.fr.menu]
       [[languages.fr.menu.main]]
         identifier = 'home'
@@ -62,5 +62,5 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
         weight = 3
 
 [params]
-  author = 'Laelith Team'
+  author = 'Laelith Foundation'
 
