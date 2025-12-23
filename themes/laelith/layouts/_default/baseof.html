@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="{{ "images/favicon.ico" | relURL }}">
+  <link rel="shortcut icon" href="{{ "images/favicon-centered-128.png" | relURL }}" />
+  <link rel="apple-touch-icon" href="{{ "images/favicon-centered-128.png" | relURL }}" />
+
+  <!-- Bootstrap 4 CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ "css/laelith.css" | relURL }}">
+</head>
+<body>
+  {{- partial "header.html" . -}}
+  
+  <main class="main-content">
+    <div class="content-wrapper">
+      {{- block "main" . }}{{- end }}
+    </div>
+  </main>
+
+  <div class="footer-wrapper">
+    {{- partial "footer.html" . -}}
+  </div>
+  
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+</body>
+</html>
+

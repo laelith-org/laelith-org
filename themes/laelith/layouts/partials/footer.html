@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  <div class="footer-links">
+    <a href="https://www.laelith.com/foundation">{{ if eq .Language.Lang "fr" }}À propos de Laelith{{ else }}About Laelith{{ end }}</a>
+    <span>&bull;</span>
+    <a href="https://www.laelith.com/foundation">{{ if eq .Language.Lang "fr" }}Fondation Laelith{{ else }}Laelith Fondation{{ end }}</a>
+    <span>&bull;</span>
+    <a href="https://www.laelith.com" target="_blank">{{ if eq .Language.Lang "fr" }}Entrer dans Laelith{{ else }}Enter Laelith{{ end }}</a>
+  </div>
+  <p class="footer-copyright">
+    &copy; {{ now.Year }} Laelith Foundation - All Rights Reserved
+  </p>
+</footer>
+

@@ -1,0 +1,66 @@
+baseURL = 'https://www.laelith.org/'
+title = 'Laelith'
+languageCode = 'en'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+# Theme
+theme = 'laelith'
+
+# Disable kinds we don't need
+disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
+
+# Languages
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 1
+    title = 'Laelith'
+    [languages.en.params]
+      description = 'Welcome to Laelith'
+
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = 'home'
+      name = 'Home'
+      url = '/'
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = 'licence'
+      name = 'Licence'
+      url = '/licence'
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = 'authors'
+      name = 'Authors'
+      url = '/authors'
+      weight = 3
+
+  [languages.fr]
+    languageCode = 'fr'
+    languageName = 'Français'
+    weight = 2
+    title = 'Laelith'
+    [languages.fr.params]
+      description = 'Bienvenue à Laelith'
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        identifier = 'home'
+        name = 'Accueil'
+        url = '/fr'
+        weight = 1
+      [[languages.fr.menu.main]]
+        identifier = 'licence'
+        name = 'Licence'
+        url = '/fr/licence'
+        weight = 2
+      [[languages.fr.menu.main]]
+        identifier = 'authors'
+        name = 'Auteurs'
+        url = '/fr/authors'
+        weight = 3
+
+[params]
+  author = 'Laelith Team'
+

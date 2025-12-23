@@ -1,0 +1,72 @@
+<header class="site-header">
+  <!-- Banner -->
+  <div class="banner-wrapper">
+    <a href="{{ .Site.Home.RelPermalink }}">
+      <img src="{{ "images/laelith-logo.png" | relURL }}" alt="Laelith" class="banner-image">
+    </a>
+    <div class="banner-subtitle">{{ if eq .Language.Lang "fr" }}La Licence Ouverte{{ else }}The Open Licence{{ end }}</div>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-md navbar-dark main-nav">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav mr-auto">
+          {{ $currentURL := .RelPermalink | strings.TrimSuffix "/" }}
+          {{ range .Site.Menus.main }}
+          {{ $menuURL := .URL | strings.TrimSuffix "/" }}
+          {{ $isActive := false }}
+          {{ if eq $menuURL "" }}
+            {{ $isActive = eq $currentURL "" }}
+          {{ else if eq $menuURL "/" }}
+            {{ $isActive = or (eq $currentURL "") (eq $currentURL "/") }}
+          {{ else if eq $menuURL "/fr" }}
+            {{ $isActive = or (eq $currentURL "/fr") (eq $currentURL "/fr/") }}
+          {{ else }}
+            {{ $isActive = or (eq $currentURL $menuURL) (hasPrefix $currentURL (printf "%s/" $menuURL)) }}
+          {{ end }}
+          <li class="nav-item{{ if $isActive }} active{{ end }}">
+            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+
+        <!-- Language Switcher -->
+        <ul class="navbar-nav language-switcher">
+          {{ $currentLang := .Language.Lang }}
+          {{ $currentPage := . }}
+          {{ range .Site.Languages }}
+            {{ $lang := .Lang }}
+            <li class="nav-item">
+              {{ if eq $currentLang $lang }}
+                <span class="nav-link lang-link active" title="{{ .LanguageName }}">
+                  {{ $lang | upper }}
+                </span>
+              {{ else }}
+                {{ $translationFound := false }}
+                {{ range $currentPage.Translations }}
+                  {{ if eq .Language.Lang $lang }}
+                    {{ $translationFound = true }}
+                    <a class="nav-link lang-link" href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">
+                      {{ $lang | upper }}
+                    </a>
+                  {{ end }}
+                {{ end }}
+                {{ if not $translationFound }}
+                  <a class="nav-link lang-link" href="/{{ $lang }}/" title="{{ .LanguageName }}">
+                    {{ $lang | upper }}
+                  </a>
+                {{ end }}
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
