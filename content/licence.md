@@ -7,7 +7,7 @@ show_copy_button: true
 
 The Laelith Intellectual Property ("Laelith IP") is released under an open licence, allowing you to use, modify, and share the material for both personal and commercial purposes.The Laelith IP is available under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-The Laelith IP includes but is not limited to [**describe the IP pieces**].
+The Laelith IP is everything related to Laelith that was not individually copyrighted by an author.
 
 ## Laelith Trademark Usage Guidelines [Draft]
 
@@ -78,4 +78,6 @@ Benefits of certification:
 
 The Foundation monitors trademark use to maintain quality and proper attribution:
 
-- First instance of non-compliance: Friendly notice with 30 days to cure
+- First instance of non-compliance: friendly notice with 30 days to cure
+- Second instance of non-compliance: formal notice with 30 days to cure
+- Third instance of non-compliance: legal action

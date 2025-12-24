@@ -7,7 +7,7 @@ show_copy_button: true
 
 La Propriété Intellectuelle Laelith (« PI Laelith ») est publiée sous une licence ouverte, vous permettant d'utiliser, modifier et partager le matériel à des fins personnelles et commerciales. La PI Laelith est disponible sous la [licence CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-La PI Laelith inclut mais ne se limite pas à [**décrire les éléments de la PI**].
+La PI Laelith rassemble tout ce qui concerne Laelith et qui n'est pas protégé par le droit d'auteur individuel d'un auteur.
 
 ## Directives d'Utilisation de la Marque Laelith [Brouillon]
 
@@ -78,5 +78,6 @@ Avantages de la certification :
 
 La Fondation surveille l'utilisation de la marque pour maintenir la qualité et l'attribution appropriée :
 
-- Première instance de non-conformité : Avis amical avec 30 jours pour corriger
-
+- Première instance de non-conformité : avis amical avec 30 jours pour corriger
+- Deuxième instance de non-conformité : préavis formel avec 30 jours pour corriger
+- Troisième instance de non-conformité : mesures légales
