@@ -10,7 +10,7 @@ La **Licence Ouverte Laelith** définit comment vous pouvez utiliser, modifier e
 
 Il y a trois composantes principales à distinguer dans l'œuvre Laelith :
 
-- La **Propriété Intellectuelle** est le contenu de base créé collectivement par les auteurs et contributeurs Laelith depuis 1985, incluant les décors, personnages, histoires et tout ce qui est lié à Laelith qui n'a pas été individuellement protégé par le droit d'auteur par un auteur. Ce contenu est disponible sous la Licence Ouverte Laelith en tant que [licence CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- La **Propriété Intellectuelle** est le contenu de base créé collectivement par les auteurs et contributeurs Laelith depuis 1985, incluant les noms, décors, personnages, histoires et tout ce qui est lié à Laelith qui n'a pas été individuellement protégé par le droit d'auteur par un auteur. Ce contenu est disponible sous la Licence Ouverte Laelith en tant que [licence CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - La **Marque**, c'est-à-dire le nom « Laelith », qui fait également partie de la Licence Ouverte mais soumise à certaines restrictions et conditions - lisez la licence pour plus de détails.
 - Les **textes** et **illustrations** écrits par les auteurs, artistes et contributeurs, notamment ceux du livre de base de l'édition BBE publié en français en 2020. Ceux-ci ne font PAS partie de la Propriété Intellectuelle Laelith et ne sont donc pas couverts par la Licence Ouverte Laelith. Par défaut, ils sont protégés par le droit d'auteur sauf s'ils ont été rendus disponibles sous licence CC-BY 4.0 par leurs auteurs. Voir cette page [lien] pour plus de détails.
 

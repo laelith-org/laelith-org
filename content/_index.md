@@ -10,7 +10,7 @@ The **Laelith Open Licence** defines how you can use, modify, and share the cont
 
 There are three main components to distinguish in the Laelith work:
 
-- The **Intellectual Property** is the core content created collectively by the Laelith authors and contributors since 1985, including the settings, characters, stories and everything related to Laelith that was not individually copyrighted by an author. This content is available under the Laelith Open Licence as a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+- The **Intellectual Property** is the core content created collectively by the Laelith authors and contributors since 1985, including the names, settings, characters, stories and everything related to Laelith that was not individually copyrighted by an author. This content is available under the Laelith Open Licence as a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 - The **Trademark**, i.e. the "Laelith" name, which is also part of the Open Licence but subject to some restrictions and conditions - read the licence for more details.
 - The **texts** and **illustrations** written by the authors, artists and contributors, especially the ones in the core book of the BBE edition published in French in 2020. These are NOT part of the Laelith Intellectual Property and are therefore not covered by the Laelith Open Licence. By default, they are copyrighted unless they were made available under CC-BY 4.0 by their authors. See this page [link] for details.
 
