@@ -1,4 +1,4 @@
-# The authors of Laelith
+# The Authors of Laelith
 
 ## Texts from the core book
 
