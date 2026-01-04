@@ -36,6 +36,11 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
       name = 'Authors'
       url = '/authors'
       weight = 3
+    [[languages.en.menu.main]]
+      identifier = 'texts'
+      name = 'Texts'
+      url = '/texts'
+      weight = 4
 
   [languages.fr]
     languageCode = 'fr'
@@ -60,6 +65,11 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
         name = 'Auteurs'
         url = '/fr/authors'
         weight = 3
+      [[languages.fr.menu.main]]
+        identifier = 'texts'
+        name = 'Textes'
+        url = '/fr/texts'
+        weight = 4
 
 [params]
   author = 'Laelith Foundation'

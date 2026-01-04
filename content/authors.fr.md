@@ -1,9 +1,7 @@
 ---
-title: "Auteurs"
+title: "Les Auteurs de Laelith"
 show_copy_button: true
 ---
-
-## Textes du livre de base
 
 ### Introduction
 Black Book Editions, Jean-Marie Noël

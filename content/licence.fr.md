@@ -27,8 +27,8 @@ L'utilisation proéminente dans des œuvres dérivées (par ex., « Laelith : [V
 **1. EXIGENCES D'ATTRIBUTION :**
 
 - Créditez clairement les créateurs originaux de Laelith : [liste des noms ou « Guilde des Auteurs Laelith »]
-- Incluez la déclaration : « Laelith est une marque de la Fondation. Cette œuvre est créée indépendamment selon les Directives de la Communauté Laelith. »
-- Lien vers la liste des auteurs sur la page de la licence ouverte : [https://laelith.org/authors]
+- Incluez la déclaration : « Laelith est une marque de la Fondation Laelith. Cette œuvre est créée indépendamment selon les Directives de la Communauté Laelith [lien?]. »
+- Lien vers la liste des auteurs sur la page de la licence ouverte : https://laelith.org/authors
 - Si vous adaptez du contenu Laelith spécifique, créditez ces auteurs spécifiques
 
 **2. NORMES DE QUALITÉ :**
@@ -57,7 +57,7 @@ La Fondation offre un badge « Certifié par la Communauté Laelith » pour les 
 - Répondent à toutes les exigences ci-dessus
 - Subissent un examen volontaire par la Fondation
 - Démontrent une qualité exceptionnelle ou une contribution à la communauté
-- Processus de candidature : [URL/email]
+- Processus de candidature : canal [#open-licence](https://discord.com/channels/935453755288190976/1452411443176673391) sur **le serveur Discord de Laelith** [à confirmer/ajuster]
 
 Avantages de la certification :
 

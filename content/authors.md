@@ -1,4 +1,7 @@
-# The Authors of Laelith
+---
+title: "The Authors of Laelith"
+show_copy_button: true
+---
 
 ## Texts from the core book
 
