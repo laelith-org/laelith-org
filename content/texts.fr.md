@@ -17,11 +17,7 @@ Seul le contenu explicitement listé sur cette page a été rendu disponible sou
 
 Certaines références indiquent le numéro de page et la colonne (a, b, et/ou c). Ainsi, 74b/c indique la colonne b et c de la page 74, c'est à dire la colonne du milieu et celle de droite de la page.
 
-[Exemple de présentation. Idéalement, ce contenu serait construit automatiquement à partir des métadonnées tirées de l'api]
-
-- Textes écrits par **Frédéric Ménage**, disponibles sous **licence CC-BY 4.0**. Attribution à utiliser : "_Texte de Frédéric Ménage, disponible sous licence CC-BY 4.0_".
-  - Lithos et Lithoracle , p. 72 à 79 hors marges
-  - La Prospérité, p. 177	à 223 hors marges
+Actuellement, aucun texte n'a été explicitement publié sous licence ouverte.
 
 ### Autres Textes
 

@@ -17,11 +17,7 @@ Only the content explicitly listed on this page has been made available under op
 
 Some references indicate the page number and column (a, b, and/or c). For example, 74b/c indicates column b and c of page 74, i.e. the middle and right columns of the page.
 
-[Presentation example. Ideally, this content would be built automatically from the api metadata]
-
-- Texts written by **Frédéric Ménage**, available under **CC-BY 4.0 license**. Attribution to use: "_Text by Frédéric Ménage, available under CC-BY 4.0 license_".
-  - Lithos et Lithoracle, p. 72 to 79 excluding margins
-  - La Prospérité, p. 177 to 223 excluding margins
+Currently, no texts have been explicitly released under open licence.
 
 ### Other Texts
 
