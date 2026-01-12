@@ -37,7 +37,7 @@ Laelith is a medieval-fantasy city setting with rich lore, characters, and stori
 
 2. Run the development server:
    ```bash
-   hugo server
+   hugo server -w
    ```
 
 3. Open your browser to `http://localhost:1313`

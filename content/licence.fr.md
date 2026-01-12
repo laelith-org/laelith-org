@@ -3,15 +3,15 @@ title: "Licence Ouverte Laelith"
 show_copy_button: true
 ---
 
-## Propriété Intellectuelle Laelith [Brouillon]
+## Propriété Intellectuelle Laelith
 
 La Propriété Intellectuelle Laelith (« PI Laelith ») est publiée sous une licence ouverte, vous permettant d'utiliser, modifier et partager le matériel à des fins personnelles et commerciales. La PI Laelith est disponible sous la [licence CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 La PI Laelith rassemble tout ce qui concerne Laelith et qui n'est pas protégé par le droit d'auteur individuel d'un auteur.
 
-## Directives d'Utilisation de la Marque Laelith [Brouillon]
+## Directives d'utilisation de la marque Laelith
 
-La marque LAELITH est détenue par [Fondation Laelith ; ultérieurement, son Association successeur - À déterminer par les Auteurs] ; dans tout le texte qui suit, le mot Fondation fait référence à la fois à la Fondation Laelith actuellement et à son successeur gardien de la PI par la suite ; la marque LAELITH peut être utilisée dans les conditions suivantes :
+La marque LAELITH est détenue par la Fondation Laelith ; (et ultérieurement, l'association qui en prendra la succession - à déterminer par les Auteurs) ; dans tout le texte qui suit, le mot Fondation fait référence à la fois à la Fondation Laelith actuellement et à son successeur gardien de la PI par la suite ; la marque LAELITH peut être utilisée dans les conditions suivantes :
 
 ### ✓ APPROBATION AUTOMATIQUE (aucune permission nécessaire) :
 
@@ -27,7 +27,7 @@ L'utilisation proéminente dans des œuvres dérivées (par ex., « Laelith : [V
 **1. EXIGENCES D'ATTRIBUTION :**
 
 - Créditez clairement les créateurs originaux de Laelith : [liste des noms ou « Guilde des Auteurs Laelith »]
-- Incluez la déclaration : « Laelith est une marque de la Fondation Laelith. Cette œuvre est créée indépendamment selon les Directives de la Communauté Laelith [lien?]. »
+- Incluez la déclaration : « Laelith est une marque de la Fondation Laelith. Cette œuvre est créée indépendamment et conformément aux *Directives d'utilisation de la marque Laelith* décrites à [https://laelith.org/licence](https://laelith.org/licence). »
 - Lien vers la liste des auteurs sur la page de la licence ouverte : https://laelith.org/authors
 - Si vous adaptez du contenu Laelith spécifique, créditez ces auteurs spécifiques
 
@@ -52,12 +52,12 @@ L'utilisation proéminente dans des œuvres dérivées (par ex., « Laelith : [V
 
 ### ✓ CERTIFICATION OPTIONNELLE :
 
-La Fondation offre un badge « Certifié par la Communauté Laelith » pour les œuvres qui :
+La Fondation propose un badge « Certifié par la Communauté Laelith » pour les œuvres qui :
 
 - Répondent à toutes les exigences ci-dessus
 - Subissent un examen volontaire par la Fondation
 - Démontrent une qualité exceptionnelle ou une contribution à la communauté
-- Processus de candidature : canal [#open-licence](https://discord.com/channels/935453755288190976/1452411443176673391) sur **le serveur Discord de Laelith** [à confirmer/ajuster]
+- Processus de candidature : sur le serveur Discord de Laelith à https://discord.gg/E4wUUgnNsF
 
 Avantages de la certification :
 
@@ -80,4 +80,4 @@ La Fondation surveille l'utilisation de la marque pour maintenir la qualité et 
 
 - Première instance de non-conformité : avis amical avec 30 jours pour corriger
 - Deuxième instance de non-conformité : préavis formel avec 30 jours pour corriger
-- Troisième instance de non-conformité : mesures légales
+- Troisième instance de non-conformité : actions légales

@@ -3,15 +3,15 @@ title: "Laelith Open Licence"
 show_copy_button: true
 ---
 
-## Laelith Intellectual Property [Draft]
+## Laelith Intellectual Property
 
 The Laelith Intellectual Property ("Laelith IP") is released under an open licence, allowing you to use, modify, and share the material for both personal and commercial purposes.The Laelith IP is available under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 The Laelith IP is everything related to Laelith that was not individually copyrighted by an author.
 
-## Laelith Trademark Usage Guidelines [Draft]
+## Laelith Trademark Usage Guidelines
 
-The LAELITH trademark is owned by [Laelith Foundation; later on, its successor Association - TBD by the Authors]; in all text that follows, the word Foundation refers to both the Laelith Foundation currently and its successor IP caretaker thereafter; the LAELITH trademark may be used under the following conditions:
+The LAELITH trademark is owned by the Laelith Foundation; (and later on, its successor Association - to be defined by the Authors); in all text that follows, the word Foundation refers to both the Laelith Foundation currently and its successor IP caretaker thereafter; the LAELITH trademark may be used under the following conditions:
 
 ### ✓ AUTOMATIC APPROVAL (no permission needed):
 
@@ -27,7 +27,7 @@ Prominent use in derivative works (e.g., "Laelith: [Your Title]" or "[Title]: A 
 **1. ATTRIBUTION REQUIREMENTS:**
 
 - Clearly credit the original Laelith creators: [list names or "Laelith Authors Guild"]
-- Include statement: "Laelith is a trademark of the Laelith Foundation. This work is independently created under the Laelith Community Guidelines [link?]."
+- Include statement: "Laelith is a trademark of the Laelith Foundation. This work is independently created under the *Laelith Trademark Usage Guidelines* described at [https://laelith.org/licence](https://laelith.org/licence)."
 - Link to the authors on the Open Licence website: https://laelith.org/authors
 - If adapting specific Laelith content, credit those specific authors
 
@@ -57,7 +57,7 @@ The Foundation offers a "Laelith Community Certified" badge for works that:
 - Meet all requirements above
 - Undergo voluntary review by Foundation
 - Demonstrate exceptional quality or contribution to the community
-- Application process: Channel [#open-licence](https://discord.com/channels/935453755288190976/1452411443176673391) on the **Laelith Discord server** [to confirm/adjust]
+- Application process: on the Laelith Discord server at https://discord.gg/E4wUUgnNsF
 
 Benefits of certification:
 
