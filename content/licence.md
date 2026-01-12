@@ -57,7 +57,7 @@ The Foundation offers a "Laelith Community Certified" badge for works that:
 - Meet all requirements above
 - Undergo voluntary review by Foundation
 - Demonstrate exceptional quality or contribution to the community
-- Application process: on the Laelith Discord server at https://discord.gg/E4wUUgnNsF
+- Application process: on the Laelith Discord server at https://discord.gg/ndGP6EwwK2
 
 Benefits of certification:
 

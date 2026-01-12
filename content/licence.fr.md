@@ -57,7 +57,7 @@ La Fondation propose un badge « Certifié par la Communauté Laelith » pour le
 - Répondent à toutes les exigences ci-dessus
 - Subissent un examen volontaire par la Fondation
 - Démontrent une qualité exceptionnelle ou une contribution à la communauté
-- Processus de candidature : sur le serveur Discord de Laelith à https://discord.gg/E4wUUgnNsF
+- Processus de candidature : sur le serveur Discord de Laelith à https://discord.gg/ndGP6EwwK2
 
 Avantages de la certification :
 
