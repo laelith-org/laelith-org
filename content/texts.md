@@ -3,7 +3,7 @@ title: "Texts and Illustrations"
 show_copy_button: false
 ---
 
-This page lists the texts and illustrations from the Laelith core book (BBE edition, 2020) and other sources that have been explicitly made available under CC-BY 4.0 or similar open licenses by their authors. This page is updated regularly as new content is made available.
+This page lists the texts and illustrations from the Laelith core book (BBE edition, 2020) and other sources that have been explicitly made available under open licenses by their authors. This page is updated regularly as new content is made available.
 
 ## Important Notice
 
@@ -15,7 +15,7 @@ If you are an author or artist who has contributed to Laelith and wish to see yo
 
 ## Reassignment of Copyrights
 
-Please note that the authors' copyrights that had been licenced by the Foundation were reassigned to their original authors on January 26th, 2026 (read the [Reassignment Letter](reassignment-letter.pdf)). Therefore you need to contact the authors directly to request permission to use their work.
+Please note that the authors' copyrights that had been licenced by the Foundation were reassigned to their original authors on January 26th, 2026 (read the [Reassignment Letter](/reassignment-letter.pdf)). Therefore you need to contact the authors directly to request permission to use their work.
 
 ## Texts Available Under Open Licence
 
@@ -46,13 +46,13 @@ Currently, no other illustrations have been explicitly released under open licen
 If you are an author or artist who has contributed to Laelith and wish to be listed on this page:
 
 1. Contact the Laelith Foundation
-2. Provide clear identification of the work(s) you wish to release
-3. Confirm the license you wish to use (CC-BY 4.0 recommended)
+2. Provide clear identification of the work(s) you released under open licence
+3. Confirm the license you used (CC-BY 4.0 or other)
 4. Indicate where your work can be found (URL, publication details, etc.)
 
-## Attribution
+## Use and Attribution
 
-When using content from this page, please provide proper attribution to the original authors/artists as listed, and include a link to the specific work's license.
+When using work from them, please always comply with the use and attribution intructions provided by the original authors/artists.
 
 ## See Also
 

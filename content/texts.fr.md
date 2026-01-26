@@ -3,13 +3,19 @@ title: "Textes et Illustrations"
 show_copy_button: false
 ---
 
-Cette page répertorie les textes et illustrations du livre de base Laelith (édition BBE, 2020) et d'autres sources qui ont été explicitement rendus disponibles sous licence CC-BY 4.0 ou similaire par leurs auteurs. Cette page est mise à jour régulièrement lorsque de nouveau contenu est rendu disponible.
+Cette page répertorie les textes et illustrations du livre de base Laelith (édition BBE, 2020) et d'autres sources qui ont été explicitement rendus disponibles sous licence libre ou similaire par leurs auteurs. Cette page est mise à jour régulièrement lorsque de nouveau contenu est rendu disponible.
 
 ## Avis Important
 
 **Par défaut, tous les textes et illustrations sont protégés par le droit d'auteur de leurs auteurs respectifs** et ne font PAS partie de la Propriété Intellectuelle Laelith couverte par la Licence Ouverte Laelith.
 
-Seul le contenu explicitement listé sur cette page a été rendu disponible sous licences ouvertes et peut être librement utilisé, modifié et partagé selon les termes de ces licences.
+Cette page liste uniquement le contenu ouvert dont la Fondation a connaissance. Il peut exister d'autres contenus qui ont été rendus disponibles par leurs auteurs sans que la Fondation en ait connaissance.
+
+Si vous êtes un auteur ou un artiste ayant contribué à Laelith et souhaitez voir votre travail listé sur cette page, lisez la section [Comment être listé sur cette page](#comment-être-listé-sur-cette-page) ci-dessous.
+
+## Rétrocession des droits d'auteur
+
+Veuillez noter que les droits d'auteur qui avaient été licenciés à la Fondation ont été rétrocédés à leurs auteurs originaux le 26 janvier 2026 (lire la [Lettre de rétrocession](/reassignment-letter.pdf)). Par conséquent, vous devez contacter les auteurs directement pour demander la permission d'utiliser leur travail.
 
 ## Textes Disponibles en licence ouverte
 
@@ -35,18 +41,18 @@ Les artistes qui souhaitent rendre leurs illustrations disponibles sous licence 
 
 Actuellement, aucune autre illustration n'a été explicitement publiée sous licence ouverte.
 
-## Comment Contribuer
+## Comment être listé sur cette page
 
-Si vous êtes un auteur ou un artiste ayant contribué à Laelith et souhaitez rendre votre travail disponible sous licence CC-BY 4.0 ou similaire :
+Si vous êtes un auteur ou un artiste ayant contribué à Laelith et souhaitez être listé sur cette page :
 
 1. Contactez la Fondation Laelith
-2. Fournissez une identification claire de l'œuvre ou des œuvres que vous souhaitez publier
-3. Confirmez la licence que vous souhaitez utiliser (CC-BY 4.0 recommandée)
-4. Votre travail sera ajouté à cette page avec une attribution appropriée
+2. Fournissez une identification claire de l'œuvre ou des œuvres que vous avez ouvertes
+3. Confirmez la licence que vous avez utilisée (CC-BY 4.0 ou autre)
+4. Indiquez où votre travail peut être trouvé (URL, détails de publication, etc.)
 
-## Attribution
+## Utilisation et attribution
 
-Lors de l'utilisation du contenu de cette page, veuillez fournir une attribution appropriée aux auteurs/artistes originaux comme indiqué, et inclure un lien vers cette page ou vers la licence spécifique de l'œuvre.
+Lors de l'utilisation de leur travail, veuillez toujours vous conformer aux exigences d'utilisation et d'attribution des auteurs/artistes originaux.
 
 ## Voir Aussi
 
