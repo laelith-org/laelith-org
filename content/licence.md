@@ -26,10 +26,12 @@ Prominent use in derivative works (e.g., "Laelith: [Your Title]" or "[Title]: A 
 
 **1. ATTRIBUTION REQUIREMENTS:**
 
-- Clearly credit the original Laelith creators: [list names or "Laelith Authors Guild"]
-- Include statement: "Laelith is a trademark of the Laelith Foundation. This work is independently created under the *Laelith Trademark Usage Guidelines* described at [https://laelith.org/licence](https://laelith.org/licence)."
+- Clearly credit the original Laelith creators: [list names or "The Laelith Authors"]
+- Include statement: "Laelith is a registered trademark of the Laelith Foundation. This work is independently created under the *Laelith Trademark Usage Guidelines* described at [https://laelith.org/licence](https://laelith.org/licence)."
 - Link to the authors on the Open Licence website: https://laelith.org/authors
 - If adapting specific Laelith content, credit those specific authors
+
+For your convienience, you may use the [legal notice template](#legal-notice-template) provided at the bottom.
 
 **2. QUALITY STANDARDS:**
 
@@ -81,3 +83,11 @@ The Foundation monitors trademark use to maintain quality and proper attribution
 - First instance of non-compliance: friendly notice with 30 days to cure
 - Second instance of non-compliance: formal notice with 30 days to cure
 - Third instance of non-compliance: legal action
+
+### LEGAL NOTICE TEMPLATE:
+
+For convenience, you may copy/paste the following text for your legal notices in standard cases (no specific reuse of content covered by individual copyright and no official certification):
+
+> Laelith is a collective work written by the Laelith Authors credited at https://laelith.org/authors. Its use is governed by the _Laelith Open Licence_ at https://laelith.org/licence. \
+> Laelith is a registered trademark of the Laelith Foundation. This work is independently created under the _Laelith Trademark Usage Guidelines_ described at https://laelith.org/licence. \
+> This work is not officially certified.

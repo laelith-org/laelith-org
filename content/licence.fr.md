@@ -26,10 +26,12 @@ L'utilisation proéminente dans des œuvres dérivées (par ex., « Laelith : [V
 
 **1. EXIGENCES D'ATTRIBUTION :**
 
-- Créditez clairement les créateurs originaux de Laelith : [liste des noms ou « Guilde des Auteurs Laelith »]
-- Incluez la déclaration : « Laelith est une marque de la Fondation Laelith. Cette œuvre est créée indépendamment et conformément aux *Directives d'utilisation de la marque Laelith* décrites à [https://laelith.org/licence](https://laelith.org/licence). »
+- Créditez clairement les créateurs originaux de Laelith : [liste des noms ou « Les Auteurs de Laelith »]
+- Incluez la déclaration : « Laelith est une marque déposée de la Fondation Laelith. Cette œuvre est créée indépendamment et conformément aux *Directives d'utilisation de la marque Laelith* décrites à [https://laelith.org/licence](https://laelith.org/licence). »
 - Lien vers la liste des auteurs sur la page de la licence ouverte : https://laelith.org/authors
 - Si vous adaptez du contenu Laelith spécifique, créditez ces auteurs spécifiques
+
+Vous pouvez utiliser [le modèle de mentions légales](#modèle-de-mention-légale-) plus bas.
 
 **2. NORMES DE QUALITÉ :**
 
@@ -81,3 +83,11 @@ La Fondation surveille l'utilisation de la marque pour maintenir la qualité et 
 - Première instance de non-conformité : avis amical avec 30 jours pour corriger
 - Deuxième instance de non-conformité : préavis formel avec 30 jours pour corriger
 - Troisième instance de non-conformité : actions légales
+
+### MODÈLE DE MENTION LÉGALE :
+
+Pour plus de facilité, vous pouvez copier/copier le texte suivant pour vos mentions légales dans les cas usuels (pas de reprise spécifique de contenus couverts par le droit d'auteur individuel et pas de certification officielle) :
+
+> Laelith est une œuvre collective écrite par les Auteurs de Laelith crédités sur https://laelith.org/authors et dont l'utilisation est décrite par la _Licence Ouverte Laelith_ sur https://laelith.org/licence. \
+> Laelith est une marque déposée de la Fondation Laelith. Cette œuvre est créée indépendamment et conformément aux _Directives d’utilisation de la marque Laelith_ décrites à https://laelith.org/licence. \
+> Cette œuvre n'est pas officellement certifiée.
