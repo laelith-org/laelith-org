@@ -9,13 +9,13 @@ This page lists the texts and illustrations from the Laelith core book (BBE edit
 
 **By default, all texts and illustrations are copyrighted by their respective authors** and are NOT part of the Laelith Intellectual Property covered by the Laelith Open Licence.
 
-This page lists only the open content that the Foundation is aware of. There may be other content that has been made available by their authors without the Foundation's knowledge.
+This page lists only the open content that the Association is aware of. There may be other content that has been made available by their authors without the Association's knowledge.
 
 If you are an author or artist who has contributed to Laelith and wish to see your work listed on this page, read the [How to be listed on this page](#how-to-be-listed-on-this-page) section below.
 
 ## Reassignment of Copyrights
 
-Please note that the authors' copyrights that had been licenced by the Foundation were reassigned to their original authors on January 26th, 2026 (read the [Reassignment Letter](/reassignment-letter.pdf)). Therefore you need to contact the authors directly to request permission to use their work.
+Please note that the authors' copyrights that had been licenced in 2022 were reassigned to their original authors on January 26th, 2026 (read the [Reassignment Letter](/reassignment-letter.pdf)). Therefore you need to contact the authors directly to request permission to use their work.
 
 ## Texts Available Under Open Licence
 
@@ -35,7 +35,7 @@ Currently, no other texts have been explicitly released under open licence.
 
 Currently, no illustrations from the core book have been explicitly released under open licence by their artists.
 
-Artists who wish to make their illustrations available under open licence can contact the Laelith Foundation to have them listed here.
+Artists who wish to make their illustrations available under open licence can contact the Association to have them listed here.
 
 ### Other Illustrations
 
@@ -45,7 +45,7 @@ Currently, no other illustrations have been explicitly released under open licen
 
 If you are an author or artist who has contributed to Laelith and wish to be listed on this page:
 
-1. Contact the Laelith Foundation
+1. Contact the Association
 2. Provide clear identification of the work(s) you released under open licence
 3. Confirm the license you used (CC-BY 4.0 or other)
 4. Indicate where your work can be found (URL, publication details, etc.)

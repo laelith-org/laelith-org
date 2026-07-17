@@ -30,7 +30,7 @@
             {{ $isActive = or (eq $currentURL $menuURL) (hasPrefix $currentURL (printf "%s/" $menuURL)) }}
           {{ end }}
           <li class="nav-item{{ if $isActive }} active{{ end }}">
-            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+            <a class="nav-link" href="{{ .URL }}"{{ with .Params.target }} target="{{ . }}"{{ end }}>{{ .Name }}</a>
           </li>
           {{ end }}
         </ul>
@@ -39,11 +39,11 @@
         <ul class="navbar-nav language-switcher">
           {{ $currentLang := .Language.Lang }}
           {{ $currentPage := . }}
-          {{ range .Site.Languages }}
-            {{ $lang := .Lang }}
+          {{ range hugo.Sites }}
+            {{ $lang := .Language.Lang }}
             <li class="nav-item">
               {{ if eq $currentLang $lang }}
-                <span class="nav-link lang-link active" title="{{ .LanguageName }}">
+                <span class="nav-link lang-link active" title="{{ .Language.Label }}">
                   {{ $lang | upper }}
                 </span>
               {{ else }}
@@ -51,13 +51,13 @@
                 {{ range $currentPage.Translations }}
                   {{ if eq .Language.Lang $lang }}
                     {{ $translationFound = true }}
-                    <a class="nav-link lang-link" href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">
+                    <a class="nav-link lang-link" href="{{ .RelPermalink }}" title="{{ .Language.Label }}">
                       {{ $lang | upper }}
                     </a>
                   {{ end }}
                 {{ end }}
                 {{ if not $translationFound }}
-                  <a class="nav-link lang-link" href="/{{ $lang }}/" title="{{ .LanguageName }}">
+                  <a class="nav-link lang-link" href="/{{ $lang }}/" title="{{ .Language.Label }}">
                     {{ $lang | upper }}
                   </a>
                 {{ end }}

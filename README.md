@@ -52,6 +52,46 @@ hugo
 
 The compiled site will be in the `public/` directory.
 
+## Deployment
+
+The site is deployed on [Render](https://render.com/) as a static site.
+
+### Pinning the Hugo version on Render
+
+Render's plain dashboard-configured "Static Site" service has **no setting to choose a Hugo version**
+(unlike Netlify, which supports a `HUGO_VERSION` build environment variable). Left alone, Render just
+uses whatever Hugo it bundles by default, and that silently drifts over time — it is **not** guaranteed
+to match the version installed locally (`hugo version`).
+
+The fix is a Render **Blueprint** ([docs](https://render.com/docs/infrastructure-as-code)): a `render.yaml`
+file at the repo root that lets Render read the service config, including build env vars, as code. Render
+still has no native `HUGO_VERSION` var even with Blueprints (see the
+[feature request thread](https://feedback.render.com/features/p/specify-hugo-version) and Render's own
+[Hugo deploy guide](https://render.com/docs/deploy-hugo)) — a custom build script that downloads a pinned
+Hugo release is the documented workaround, per
+[gohugo.io's own Render hosting guide](https://gohugo.io/host-and-deploy/host-on-render/).
+
+How it's wired up in this repo:
+
+- **`render.yaml`** — defines the Render service and sets `HUGO_VERSION` as a plain build env var.
+- **`build.sh`** — the actual build command Render runs. It downloads that exact Hugo release
+  (`hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz` from Hugo's GitHub releases) and builds the site
+  against it.
+
+**Important gotcha:** a `render.yaml` file sitting in the repo does nothing by itself. If the Render
+service was originally created through the dashboard (not via "New > Blueprint"), you must explicitly
+enable Blueprint sync for that service (Render dashboard → service → Settings) before it will read
+`render.yaml` / `build.sh` at all. Until that's enabled, Render silently keeps using its own default
+build command and bundled Hugo version, as if the Blueprint files didn't exist.
+
+#### Bumping the Hugo version later
+
+1. Update `HUGO_VERSION` in `render.yaml`.
+2. Update your local Hugo install to match (e.g. `brew upgrade hugo`), so `hugo version` locally equals
+   `HUGO_VERSION` in `render.yaml` — that lockstep is the whole point.
+3. Push, then check the Render deploy log for the `hugo v...` line to confirm the version that actually
+   built the site is the one you expect.
+
 ## Project Structure
 
 ```
@@ -68,6 +108,8 @@ laelith-org/
 │       ├── layouts/     # HTML templates
 │       └── static/      # CSS, images, fonts
 ├── hugo.toml            # Hugo configuration
+├── render.yaml          # Render Blueprint service config
+├── build.sh             # Render build script (pins the Hugo version)
 └── public/              # Generated site (not in git)
 ```
 

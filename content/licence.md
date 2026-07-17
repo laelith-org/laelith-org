@@ -11,7 +11,7 @@ The Laelith IP is everything related to Laelith that was not individually copyri
 
 ## Laelith Trademark Usage Guidelines
 
-The LAELITH trademark is owned by the Laelith Foundation; (and later on, its successor Association - to be defined by the Authors); in all text that follows, the word Foundation refers to both the Laelith Foundation currently and its successor IP caretaker thereafter; the LAELITH trademark may be used under the following conditions:
+The LAELITH trademark is owned by the association [Les bâtisseurs de Laelith](https://www.laelith.com/association) ("The Laelith Builders" or "the Association"); in all text that follows, the word Association refers to the association **Les bâtisseurs de Laelith**; the LAELITH trademark may be used under the following conditions:
 
 ### ✓ AUTOMATIC APPROVAL (no permission needed):
 
@@ -27,7 +27,7 @@ Prominent use in derivative works (e.g., "Laelith: [Your Title]" or "[Title]: A 
 **1. ATTRIBUTION REQUIREMENTS:**
 
 - Clearly credit the original Laelith creators: [list names or "The Laelith Authors"]
-- Include statement: "Laelith is a registered trademark of the Laelith Foundation. This work is independently created under the *Laelith Trademark Usage Guidelines* described at [https://laelith.org/licence](https://laelith.org/licence)."
+- Include statement: "Laelith is a registered trademark of The Laelith Builders. This work is independently created under the *Laelith Trademark Usage Guidelines* described at [https://laelith.org/licence](https://laelith.org/licence)."
 - Link to the authors on the Open Licence website: https://laelith.org/authors
 - If adapting specific Laelith content, credit those specific authors
 
@@ -42,9 +42,9 @@ For your convienience, you may use the [legal notice template](#legal-notice-tem
 
 **3. CLARITY OF RELATIONSHIP:**
 
-- Must NOT suggest official endorsement by Foundation unless explicitly granted
-- Must NOT claim to be "official Laelith" content unless approved by Foundation
-- Recommended language: "This is an independent work by [creator] and is not officially endorsed by the Foundation"
+- Must NOT suggest official endorsement by the Association unless explicitly granted
+- Must NOT claim to be "official Laelith" content unless approved by the Association
+- Recommended language: "This is an independent work by [creator] and is not officially endorsed by the Association"
 
 **4. COMMUNITY STANDARDS:**
 
@@ -54,31 +54,31 @@ For your convienience, you may use the [legal notice template](#legal-notice-tem
 
 ### ✓ OPTIONAL CERTIFICATION:
 
-The Foundation offers a "Laelith Community Certified" badge for works that:
+The Association offers a "Laelith Community Certified" badge for works that:
 
 - Meet all requirements above
-- Undergo voluntary review by Foundation
+- Undergo voluntary review by the Association
 - Demonstrate exceptional quality or contribution to the community
 - Application process: on the Laelith Discord server at https://discord.gg/ndGP6EwwK2
 
 Benefits of certification:
 
 - Use of official "Laelith Community Certified" badge
-- Listing in Foundation's directory of approved works
-- Promotional support through Foundation channels
+- Listing in the Association's directory of approved works
+- Promotional support through the Association's channels
 
 ### ✗ PROHIBITED USES:
 
 - Variations confusingly similar to LAELITH (e.g., "Laeleth," "Laylith")
-- Suggesting official status without Foundation approval
+- Suggesting official status without the Association's approval
 - Domain names using LAELITH as primary term (except fan sites clearly identified as unofficial)
 - Uses that violate applicable laws
 - Deliberately poor-quality works intended to damage the reputation of the mark
-- Use in ways that contradict the Foundation's charitable/educational mission
+- Use in ways that contradict the Association's charitable/educational mission
 
 ### ENFORCEMENT:
 
-The Foundation monitors trademark use to maintain quality and proper attribution:
+The Association monitors trademark use to maintain quality and proper attribution:
 
 - First instance of non-compliance: friendly notice with 30 days to cure
 - Second instance of non-compliance: formal notice with 30 days to cure
@@ -89,5 +89,5 @@ The Foundation monitors trademark use to maintain quality and proper attribution
 For convenience, you may copy/paste the following text for your legal notices in standard cases (no specific reuse of content covered by individual copyright and no official certification):
 
 > Laelith is a collective work written by the Laelith Authors credited at https://laelith.org/authors. Its use is governed by the _Laelith Open Licence_ at https://laelith.org/licence. \
-> Laelith is a registered trademark of the Laelith Foundation. This work is independently created under the _Laelith Trademark Usage Guidelines_ described at https://laelith.org/licence. \
+> Laelith is a registered trademark of Les bâtisseurs de Laelith. This work is independently created under the _Laelith Trademark Usage Guidelines_ described at https://laelith.org/licence. \
 > This work is not officially certified.

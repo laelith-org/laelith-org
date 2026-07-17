@@ -1,6 +1,6 @@
 baseURL = 'https://www.laelith.org/'
 title = 'Laelith Open Licence'
-languageCode = 'en'
+locale = 'en'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
@@ -13,38 +13,43 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
 # Languages
 [languages]
   [languages.en]
-    languageCode = 'en'
-    languageName = 'English'
+    locale = 'en'
+    label = 'English'
     weight = 1
     title = 'Laelith Open Licence'
     [languages.en.params]
       description = 'Description and conditions of the Laelith Open Licence'
-
-  [languages.en.menu]
-    [[languages.en.menu.main]]
-      identifier = 'home'
-      name = 'Home'
-      url = '/'
-      weight = 1
-    [[languages.en.menu.main]]
-      identifier = 'licence'
-      name = 'Licence'
-      url = '/licence'
-      weight = 2
-    [[languages.en.menu.main]]
-      identifier = 'authors'
-      name = 'Authors'
-      url = '/authors'
-      weight = 3
-    [[languages.en.menu.main]]
-      identifier = 'texts'
-      name = 'Texts'
-      url = '/texts'
-      weight = 4
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = 'home'
+        name = 'Home'
+        url = '/'
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = 'licence'
+        name = 'Licence'
+        url = '/licence'
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = 'authors'
+        name = 'Authors'
+        url = '/authors'
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = 'texts'
+        name = 'Texts'
+        url = '/texts'
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = 'laelith'
+        name = 'Laelith.com»'
+        url = 'https://www.laelith.com/'
+        weight = 5
+        params = { target = '_blank' }
 
   [languages.fr]
-    languageCode = 'fr'
-    languageName = 'Français'
+    locale = 'fr'
+    label = 'Français'
     weight = 2
     title = 'Licence Ouverte Laelith'
     [languages.fr.params]
@@ -70,7 +75,13 @@ disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap', '404']
         name = 'Textes'
         url = '/fr/texts'
         weight = 4
+      [[languages.fr.menu.main]]
+        identifier = 'laelith'
+        name = 'Laelith.com»'
+        url = 'https://www.laelith.com/'
+        weight = 5
+        params = { target = '_blank' }
 
 [params]
-  author = 'Laelith Foundation'
+  author = 'Les bâtisseurs de Laelith'
 

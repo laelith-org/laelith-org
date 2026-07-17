@@ -5,9 +5,12 @@ services:
   name: laelith.org
   runtime: static
   repo: https://github.com/laelith-org/laelith-org
-  buildCommand: hugo --gc --minify
+  buildCommand: chmod a+x build.sh && ./build.sh
   staticPublishPath: public
   domains:
   - laelith.org
   - www.laelith.org
   autoDeployTrigger: commit
+  envVars:
+  - key: HUGO_VERSION
+    value: 0.162.1

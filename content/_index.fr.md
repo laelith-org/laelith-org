@@ -24,5 +24,5 @@ Par exemple, il est tout à fait permis d'écrire un livre ou une aventure se d�
 
 ## Autres Liens
 
-Si vous êtes un joueur ou un maître de jeu, nous vous conseillons de visiter la [cité de Laelith](https://www.laelith.com) sur https://www.laelith.com pour trouver du contenu, des outils et de nouveaux amis !
+Si vous êtes un joueur ou un maître de jeu, nous vous conseillons de visiter [le projet Laelith.com](https://www.laelith.com) sur https://www.laelith.com pour trouver du contenu, des outils et de nouveaux amis !
 

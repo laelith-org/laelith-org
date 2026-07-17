@@ -24,5 +24,5 @@ For example, it is fine to write a book or an adventure set in Laelith using the
 
 ## Other Links
 
-If you are a player or a game master, we advise you to visit the [Laelith city](https://www.laelith.com) at https://www.laelith.com to find content, tools and new friends!
+If you are a player or a game master, we advise you to visit the [Laelith.com project](https://www.laelith.com) at https://www.laelith.com to find content, tools and new friends!
 

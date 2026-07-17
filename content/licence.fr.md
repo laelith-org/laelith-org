@@ -11,7 +11,7 @@ La PI Laelith rassemble tout ce qui concerne Laelith et qui n'est pas protégé 
 
 ## Directives d'utilisation de la marque Laelith
 
-La marque LAELITH est détenue par la Fondation Laelith ; (et ultérieurement, l'association qui en prendra la succession - à déterminer par les Auteurs) ; dans tout le texte qui suit, le mot Fondation fait référence à la fois à la Fondation Laelith actuellement et à son successeur gardien de la PI par la suite ; la marque LAELITH peut être utilisée dans les conditions suivantes :
+La marque LAELITH est détenue par l'association [Les bâtisseurs de Laelith](https://www.laelith.com/association) ; dans tout le texte qui suit, le mot Association fait référence à l'association **Les bâtisseurs de Laelith** ; la marque LAELITH peut être utilisée dans les conditions suivantes :
 
 ### ✓ APPROBATION AUTOMATIQUE (aucune permission nécessaire) :
 
@@ -27,7 +27,7 @@ L'utilisation proéminente dans des œuvres dérivées (par ex., « Laelith : [V
 **1. EXIGENCES D'ATTRIBUTION :**
 
 - Créditez clairement les créateurs originaux de Laelith : [liste des noms ou « Les Auteurs de Laelith »]
-- Incluez la déclaration : « Laelith est une marque déposée de la Fondation Laelith. Cette œuvre est créée indépendamment et conformément aux *Directives d'utilisation de la marque Laelith* décrites à [https://laelith.org/licence](https://laelith.org/licence). »
+- Incluez la déclaration : « Laelith est une marque déposée de l'association Les bâtisseurs de Laelith. Cette œuvre est créée indépendamment et conformément aux *Directives d'utilisation de la marque Laelith* décrites à [https://laelith.org/licence](https://laelith.org/licence). »
 - Lien vers la liste des auteurs sur la page de la licence ouverte : https://laelith.org/authors
 - Si vous adaptez du contenu Laelith spécifique, créditez ces auteurs spécifiques
 
@@ -42,9 +42,9 @@ Vous pouvez utiliser [le modèle de mentions légales](#modèle-de-mention-léga
 
 **3. CLARTÉ DE LA RELATION :**
 
-- NE DOIT PAS suggérer une approbation officielle par la Fondation sauf si explicitement accordée
-- NE DOIT PAS prétendre être du contenu « officiel Laelith » sauf si approuvé par la Fondation
-- Langage recommandé : « Ceci est une œuvre indépendante de [créateur] et n'est pas officiellement approuvée par la Fondation »
+- NE DOIT PAS suggérer une approbation officielle par l'Association sauf si explicitement accordée
+- NE DOIT PAS prétendre être du contenu « officiel Laelith » sauf si approuvé par l'Association
+- Langage recommandé : « Ceci est une œuvre indépendante de [créateur] et n'est pas officiellement approuvée par l'Association »
 
 **4. NORMES COMMUNAUTAIRES :**
 
@@ -54,31 +54,31 @@ Vous pouvez utiliser [le modèle de mentions légales](#modèle-de-mention-léga
 
 ### ✓ CERTIFICATION OPTIONNELLE :
 
-La Fondation propose un badge « Certifié par la Communauté Laelith » pour les œuvres qui :
+L'Association propose un badge « Certifié par la Communauté Laelith » pour les œuvres qui :
 
 - Répondent à toutes les exigences ci-dessus
-- Subissent un examen volontaire par la Fondation
+- Subissent un examen volontaire par l'Association
 - Démontrent une qualité exceptionnelle ou une contribution à la communauté
 - Processus de candidature : sur le serveur Discord de Laelith à https://discord.gg/ndGP6EwwK2
 
 Avantages de la certification :
 
 - Utilisation du badge officiel « Certifié par la Communauté Laelith »
-- Inscription dans le répertoire des œuvres approuvées de la Fondation
-- Soutien promotionnel via les canaux de la Fondation
+- Inscription dans le répertoire des œuvres approuvées de l'Association
+- Soutien promotionnel via les canaux de l'Association
 
 ### ✗ UTILISATIONS INTERDITES :
 
 - Variations similaires de manière confuse à LAELITH (par ex., « Laeleth », « Laylith »)
-- Suggérer un statut officiel sans approbation de la Fondation
+- Suggérer un statut officiel sans approbation de l'Association
 - Noms de domaine utilisant LAELITH comme terme principal (sauf sites de fans clairement identifiés comme non officiels)
 - Utilisations qui violent les lois applicables
 - Œuvres délibérément de mauvaise qualité destinées à nuire à la réputation de la marque
-- Utilisation de manières qui contredisent la mission caritative/éducative de la Fondation
+- Utilisation de manières qui contredisent la mission caritative/éducative de l'Association
 
 ### APPLICATION :
 
-La Fondation surveille l'utilisation de la marque pour maintenir la qualité et l'attribution appropriée :
+L'Association surveille l'utilisation de la marque pour maintenir la qualité et l'attribution appropriée :
 
 - Première instance de non-conformité : avis amical avec 30 jours pour corriger
 - Deuxième instance de non-conformité : préavis formel avec 30 jours pour corriger
@@ -89,5 +89,5 @@ La Fondation surveille l'utilisation de la marque pour maintenir la qualité et 
 Pour plus de facilité, vous pouvez copier/copier le texte suivant pour vos mentions légales dans les cas usuels (pas de reprise spécifique de contenus couverts par le droit d'auteur individuel et pas de certification officielle) :
 
 > Laelith est une œuvre collective écrite par les Auteurs de Laelith crédités sur https://laelith.org/authors et dont l'utilisation est décrite par la _Licence Ouverte Laelith_ sur https://laelith.org/licence. \
-> Laelith est une marque déposée de la Fondation Laelith. Cette œuvre est créée indépendamment et conformément aux _Directives d’utilisation de la marque Laelith_ décrites à https://laelith.org/licence. \
+> Laelith est une marque déposée de l'association Les bâtisseurs de Laelith. Cette œuvre est créée indépendamment et conformément aux _Directives d’utilisation de la marque Laelith_ décrites à https://laelith.org/licence. \
 > Cette œuvre n'est pas officellement certifiée.

@@ -9,5 +9,5 @@ features = ["multilingual"]
 min_version = "0.100.0"
 
 [author]
-  name = "Laelith Foundation"
+  name = "Les bâtisseurs de Laelith"
 
