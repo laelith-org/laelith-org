@@ -1,0 +1,13 @@
+# Exported from Render on 2026-07-17T08:49:16Z
+version: "1"
+services:
+- type: web
+  name: laelith.org
+  runtime: static
+  repo: https://github.com/laelith-org/laelith-org
+  buildCommand: hugo --gc --minify
+  staticPublishPath: public
+  domains:
+  - laelith.org
+  - www.laelith.org
+  autoDeployTrigger: commit
